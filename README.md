@@ -4,4 +4,4 @@ This is an [Expo](https://expo.dev) project created with [`create-expo-app`](htt
 
 ## Running the program
 
-Simply execute ```npx expo start``` using your desired machine
+Simply execute ```npm install ``` then ```npx expo start``` using your desired machine
