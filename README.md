@@ -5,3 +5,7 @@ This is an [Expo](https://expo.dev) project created with [`create-expo-app`](htt
 ## Running the program
 
 Simply execute ```npm install ``` then ```npx expo start``` using your desired machine
+
+## Features
+* Responsive React Native Frontend
+* Controlled by Typescript
